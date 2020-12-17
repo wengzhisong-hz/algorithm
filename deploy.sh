@@ -3,6 +3,7 @@ set -e
 
 git add .
 git commit -m 'deploy'
+git push -f git@github.com:wengzhisong-hz/leetcode.git master
 
 npm run build
 cd docs/.vuepress/dist
