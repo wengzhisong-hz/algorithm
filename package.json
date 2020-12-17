@@ -1,9 +1,9 @@
 {
   "name": "wengzhisong",
   "version": "1.0.1",
-  "description": "personal blogs",
+  "description": "算法笔记 leetcode",
   "main": "index.js",
-  "repository": "git@github.com:wengzhisong-hz/wengzhisong-hz.github.io.git",
+  "repository": "git@github.com:wengzhisong-hz/algorithm.git",
   "author": "wengzhisong",
   "license": "MIT",
   "scripts": {
