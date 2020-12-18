@@ -1,4 +1,4 @@
 # readme
 
-[foo](./foo/foo.md)
-[bar](./bar/bar.md)
+1. [foo](./foo/foo.md)
+2. [bar](./bar/bar.md)
