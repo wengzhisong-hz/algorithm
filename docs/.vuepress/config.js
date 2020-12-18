@@ -6,6 +6,10 @@ module.exports = {
             { text: 'github', link: 'https://github.com/wengzhisong-hz' },
             { text: '个人博客', link: 'https://wengzhisong-hz.github.io/algorithm/' }
         ],
-        sidebar: 'auto'
+        sidebar: [
+            '/',
+            '/test1',
+            'test2'
+        ]
     }
 }
